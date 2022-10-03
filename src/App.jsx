@@ -63,7 +63,7 @@ function App() {
 					className="h-fit flex flex-col items-center neumorphism md:w-11/12 sm:w-screen p-10 self-center">
 					<img
 						className="md:w-5/12 card bg-orange-300 p-1"
-						src="src/assets/imageedit_1_2314005629.jpg"
+						src="public/assets/imageedit_1_2314005629.jpg"
 						alt="Image of Me"
 					/>
 					<p className="mt-4 md:w-3/5 sm:text-start md:text-justify">
